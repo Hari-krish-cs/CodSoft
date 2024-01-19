@@ -1,0 +1,51 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hari krishnan R - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>HARI KRISHNAN R</h1>
+        <p>Web Developer and Designer</p>
+    </header>
+
+    <section id="about">
+
+        <p>Hi I'm Hari krishnan. I'm a B.E CSE student, I have a very good programming skills and leadership skills.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Web Development</li>
+            <li>Java</li>
+            <li>Programming</li>
+            <li>Team player</li>
+            <li>Punctual</li>
+            <li>Leadership</li>
+        </ul>
+    </section>
+
+    <section id="resume">
+        <h2>Resume</h2>
+        <a href="Resume.jpg" download>Download my resume</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: 8harirko8@gmail.com</p>
+        <p>Phone: +91 8608135392</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Hari krishnan. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
